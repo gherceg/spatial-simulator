@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AUv3Host.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>SpatialAppExtension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>SpatialAppFramework.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>SpatialAudioApp.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1C0C42321E72FC5300F692BB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1C0C424E1E72FC6D00F692BB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1C0C42841E72FDF000F692BB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1C0C429C1E72FE1800F692BB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1C0C42BF1E72FE9000F692BB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1C0C42F01E73114200F692BB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
